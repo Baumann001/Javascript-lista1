@@ -42,8 +42,10 @@ function calcular(n1,n2){
  
 
 
+
 /*
-Atividade 3=
+Atividade 3 =
+
 let numero=10
  do{
     console.log(numero);
@@ -52,6 +54,9 @@ let numero=10
  } while(numero>= 1);
 */
 
+function inverterTexto(texto){
+    return texto.split(' ').reverse.join(' ');
+}
 
  
  
