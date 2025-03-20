@@ -34,10 +34,8 @@ function calcular(n1,n2){
         const divisao= n1/n2;
         console.log(divisao)
     }
-
-
- 
  }
+ calcular(n1,n2);
 
 
 
