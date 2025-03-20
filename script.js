@@ -40,13 +40,17 @@ function calcular(n1,n2){
  calcular(n1,n2);
 */
  
+
+
+/*
+Atividade 3=
 let numero=10
  do{
     console.log(numero);
     numero--;
 
  } while(numero>= 1);
-
+*/
 
 
  
