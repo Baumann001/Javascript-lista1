@@ -17,7 +17,9 @@ function verificarPar(numero) {
 
 */
 
-// variáveis:
+
+/*
+Atividade 2 =
 let n1 = parseFloat(prompt ('digite um numero:'))
 let n2= parseFloat(prompt ('Digite outro numero'))
  
@@ -36,6 +38,8 @@ function calcular(n1,n2){
     }
  }
  calcular(n1,n2);
+*/
+
 
 
 
