@@ -18,15 +18,26 @@ function verificarPar(numero) {
 */
 
 // variáveis:
-let numero= prompt('Digite um número');
 let n1 = parsefloat(prompt ('digite um numero:'));
 let n2= parsefloat(prompt ('Digite outro numero'));
  
 function calcular(n1,n2){
-console.log(n1+n2);
-console.log(n1-n2);
-console.log(n1*n2);
- if (n2 ==0)
+    const soma=n1+n2;
+    const subtracao=n1-n2;
+    const multiplicacao=n1*n2;
+    console.log(soma)
+    console.log(subtracao)
+    console.log(multiplicacao)
+    if (n2===0){
+        console.log("Não da para dividir por 0!")
+    }else{
+        const divisao= n1/n2;
+        console.log(divisao)
+    }
+
+
+ 
+ }
 
 
 
