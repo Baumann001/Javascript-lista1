@@ -18,8 +18,8 @@ function verificarPar(numero) {
 */
 
 // variáveis:
-let n1 = parsefloat(prompt ('digite um numero:'));
-let n2= parsefloat(prompt ('Digite outro numero'));
+let n1 = parseFloat(prompt ('digite um numero:'))
+let n2= parseFloat(prompt ('Digite outro numero'))
  
 function calcular(n1,n2){
     const soma=n1+n2;
