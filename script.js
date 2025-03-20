@@ -54,14 +54,17 @@ let numero=10
  } while(numero>= 1);
 */
 
-function inverterTexto(texto){
-    return texto.split(' ').reverse() .join(' ');
+/*
+Atividade 4 =
+
+function inverterTexto(texto) {
+    return texto.split('').reverse() .join(' ');
 }
 
-let frase=prompt("Digite uma palavra");
-let resultado= inverterTexto(frase);
+let palavra = prompt("Digite uma palavra");
+let resultado = inverterTexto(palavra);
 
 console.log(" a frase invertida é:",resultado);
- 
+ */
  
  
