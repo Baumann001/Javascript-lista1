@@ -66,5 +66,10 @@ let resultado = inverterTexto(palavra);
 
 console.log(" a frase invertida é:",resultado);
  */
+
+
+function contarCaracteres(caracter){
+    return caracter.spl
+}
  
  
