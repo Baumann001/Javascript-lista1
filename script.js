@@ -55,11 +55,13 @@ let numero=10
 */
 
 function inverterTexto(texto){
-    return texto.split(' ').reverse.join(' ');
+    return texto.split(' ').reverse() .join(' ');
 }
-console.log(inverterTexto(""));
 
+let frase=prompt("Digite uma palavra");
+let resultado= inverterTexto(frase);
 
+console.log(" a frase invertida é:",resultado);
  
  
  
