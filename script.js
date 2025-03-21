@@ -100,4 +100,16 @@ let nomeCliente = prompt("Digite seu nome:");
 mensagemPersonalizada(nomeCliente);
 */
 
+function media(n1,n2,n3){
+    let resultado= (n1+n2+n3)/3;
+    console.log(`Sua média é: ${resultado}`);
+}
+
+let n1=parseFloat(prompt("Digite o primeiro número:"));
+let n2=parseFloat(prompt("Digite o segundo número:"));
+let n3=parseFloat(prompt("Digite o terceiro número"));
+
+
+
+
  
