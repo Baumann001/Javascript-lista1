@@ -67,11 +67,11 @@ let resultado = inverterTexto(palavra);
 console.log(" a frase invertida é:",resultado);
  */
 
-
-function contarCaracteres(caracter){
-    console.log("Número de caracteres:",caracter.length);
+/* atividade 5=
+function contarCaracteres(caracter){ // abrindo função
+    console.log("Número de caracteres:",caracter.length); // lenght para contar número de caracteres
 }
-let resultado = prompt("Digite uma palavra:");
- contarCaracteres(resultado);
- 
+let resultado = prompt("Digite uma palavra:"); // para o cliente digitar a palavra
+ contarCaracteres(resultado); //imprimir o resultado
+ */
  
