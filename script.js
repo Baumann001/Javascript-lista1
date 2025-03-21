@@ -88,8 +88,8 @@ Atividade 6=
  console.log("Ano:",carro.ano);
 */
 
-function mensagemPersonalizada(nome){
- console.log("Olá," ${nome}!);
+function mensagemPersonalizada(nome) {
+ console.log("Olá, ${nome}!");
 }
 
 let nomeCliente = prompt("Digite seu nome:");
