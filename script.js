@@ -127,13 +127,13 @@ for( let i=1;i<=20; i++){
 */
 
 function  verificaParli(palavra){
-    let invertida= palavra.split('').reverse().join('');
+    let invertida = palavra.split('').reverse().join('');
     return palavra === invertida;
     
 }
-console.log(verificaParli("arara"));
-console.log(verificaParli("banana"));
-console.log(verificaParli("compra"));
+
+let palavra = prompt("Digite uma palavra para identificar se é um palíndromo:");
+console.log(`A palavra ${palavra}" é um palíndromo? ${verificaParli(palavra)}`);
 
 
 
