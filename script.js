@@ -75,6 +75,9 @@ let resultado = prompt("Digite uma palavra:"); // para o cliente digitar a palav
  contarCaracteres(resultado); //imprimir o resultado
  */
 
+/*
+Atividade 6=
+
  let carro = {
     marca: "Honda",
     modelo: "Civic Type-R",
@@ -83,5 +86,6 @@ let resultado = prompt("Digite uma palavra:"); // para o cliente digitar a palav
  console.log("Marca:",carro.marca);
  console.log("Modelo:",carro.modelo);
  console.log("Ano:",carro.ano);
+*/
 
  
