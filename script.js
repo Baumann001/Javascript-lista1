@@ -132,8 +132,12 @@ function  verificaParli(palavra){
     
 }
 
+/*
+Atividade 10 =
 let palavra = prompt("Digite uma palavra para identificar se é um palíndromo:");
 console.log(`A palavra ${palavra}" é um palíndromo? ${verificaParli(palavra)}`);
+*/
+
 
 
 
