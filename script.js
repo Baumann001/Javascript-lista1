@@ -126,6 +126,14 @@ for( let i=1;i<=20; i++){
 }
 */
 
+function  verificaParli(palavra){
+    let invertida= palavra.split('').reverse().join('');
+    return palavra === invertida;
+    
+}
+console.log(verificaParli("arara"));
+console.log(verificaParli("banana"));
+console.log(verificaParli("compra"));
 
 
 
