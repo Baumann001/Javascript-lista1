@@ -75,9 +75,9 @@ let resultado = prompt("Digite uma palavra:"); // para o cliente digitar a palav
  contarCaracteres(resultado); //imprimir o resultado
  */
 
- let carro ={
-    marca "Honda",
-    modelo "Civic Type-R",
+ let carro = {
+    marca 'Honda',
+    modelo 'Civic Type-R',
     ano: 2022
  };
  console.log("Marca:",carro.marca);
