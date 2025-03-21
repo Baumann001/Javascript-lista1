@@ -89,7 +89,7 @@ Atividade 6=
 */
 
 function mensagemPersonalizada(nome) {
- console.log(`Olá, ${nome}!`);
+ console.log(`Olá, ${nome}!`); //uso de crases para  interpolação de strings
 }
 
 let nomeCliente = prompt("Digite seu nome:");
