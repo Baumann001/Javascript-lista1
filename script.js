@@ -69,7 +69,9 @@ console.log(" a frase invertida é:",resultado);
 
 
 function contarCaracteres(caracter){
-    return caracter.spl
+    console.log("Número de caracteres",caracter.length);
 }
+let resultado = prompt("Digite uma palavra:");
+ contarCaracteres(resultado);
  
  
