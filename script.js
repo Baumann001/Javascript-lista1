@@ -88,11 +88,15 @@ Atividade 6=
  console.log("Ano:",carro.ano);
 */
 
+
+/*
+Atividade 7=
+
 function mensagemPersonalizada(nome) {
  console.log(`Olá, ${nome}!`); //uso de crases para  interpolação de strings
 }
 
 let nomeCliente = prompt("Digite seu nome:");
 mensagemPersonalizada(nomeCliente);
-
+*/
  
