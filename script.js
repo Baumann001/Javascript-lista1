@@ -74,4 +74,14 @@ function contarCaracteres(caracter){ // abrindo função
 let resultado = prompt("Digite uma palavra:"); // para o cliente digitar a palavra
  contarCaracteres(resultado); //imprimir o resultado
  */
+
+ let carro ={
+    marca: "Honda",
+    modelo: "Civic Type-R",
+    ano: "2022"
+ };
+ console.log("Marca:",marca);
+ console.log("modelo:",modelo);
+ console.log("ano",ano);
+ 
  
