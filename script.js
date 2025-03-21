@@ -78,10 +78,10 @@ let resultado = prompt("Digite uma palavra:"); // para o cliente digitar a palav
  let carro ={
     marca "Honda",
     modelo "Civic Type-R",
-    ano "2022"
+    ano: 2022
  };
- console.log("Marca:",marca);
- console.log("modelo:",modelo);
- console.log("ano",ano);
+ console.log("Marca:",carro.marca);
+ console.log("modelo:",carro.modelo);
+ console.log("ano",carro.ano);
 
  
